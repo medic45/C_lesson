@@ -41,5 +41,5 @@ git merge
 git log --oneline --graf
 # Cоздание новой ветки
 git branch <имя ветки>
-# Удаление ветки
-git branch -d <имя ветки>
+# Добавление цитаты
+> Это цитата
