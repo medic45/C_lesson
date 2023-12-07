@@ -37,8 +37,9 @@ git branch <branch_name>
 git branch
 # Обединение веток при нахождение в ключевой ветке
 git merge
-# Отображение расположения веток
-git log --oneline --graf
+# Добавление картинок в Markdoun
+
+![Девушка](imag.png)
 # Cоздание новой ветки
 git branch <имя ветки>
 # Добавление цитаты
